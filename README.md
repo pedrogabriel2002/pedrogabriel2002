@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Pedro Gabriel
-- 🌱 I’m currently learning Javascript and Node.js
 - 💞️ I’m looking to collaborate on projects to learn new things
 - 📫 How to reach me bielpedro300@gmail.com
 
